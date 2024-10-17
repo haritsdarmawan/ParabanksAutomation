@@ -1,6 +1,7 @@
 Step 1: Set Up Your Katalon Project
 Open Katalon Studio.
 Create a new project or open an existing one.
+
 Step 2: Clone the Repository
 If your project is in a Git repository:
 
