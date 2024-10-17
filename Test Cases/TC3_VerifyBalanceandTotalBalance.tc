@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC3_VerifyBalanceandTotalBalance</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8085242f-2976-4c2b-89de-bc549e5a668c</testCaseGuid>
+</TestCaseEntity>
